@@ -1,0 +1,1 @@
+# swift-payments-rule-discovery
